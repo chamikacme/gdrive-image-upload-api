@@ -1,0 +1,12 @@
+# credentials
+credentials.json
+
+# folders
+__pycache__/
+
+# variables
+.env
+
+# virtual environment
+venv/
+.venv/
